@@ -14,13 +14,11 @@ and DS & Algo.</h3>
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently learning :** MERN Stack
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-💬 **Ask me about :** JavaScript, React, Redux
+- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p>
 
-🥅 **2022 Goals :** Learning new things and contribute more
-
-📫 You can reach me at [chat](mailto:impcakash@gmail.com)
+- 📫 How to reach me **impcakash@gmail.com**
 
  <!-- Visit My Portfolio:  -->
 
