@@ -30,7 +30,8 @@ and DS & Algo.</h3>
 <a href="https://linkedin.com/in/impcakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="impcakash" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Connect with me:</h3>
+## 🧑🏻 Connect With Me
+
 <p align="left">
   
   <a href="https://impcakash.netlify.app/">
@@ -76,7 +77,7 @@ and DS & Algo.</h3>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br/> -->
 
-## ⚡ Tech Stack
+## ⚡ Tech Stacks
 
 ### 🚀 Languages
 
@@ -87,7 +88,7 @@ and DS & Algo.</h3>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 💻 Libraries & Framework
+### 💻 Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -97,7 +98,7 @@ and DS & Algo.</h3>
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧑🏻‍💻 Tools & Platform
+### 💻 Tools & Platforms
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -112,6 +113,10 @@ and DS & Algo.</h3>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=impcakash&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=impcakash&hide_border=true&theme=radical" />
 </p>
+
+---
+
+![Prakash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=impcakash&hide_border=true&theme=redical)
 
 ---
 
@@ -151,4 +156,4 @@ and DS & Algo.</h3>
 <a href="https://github.com/impcakash/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=impcakash">
 </a>
-<a href="https://github.com/impcakash?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a> --> -->
+<a href="https://github.com/impcakash?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a> --> 
