@@ -31,7 +31,7 @@ and DS & Algo.</h3>
 </p> -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   
   <a href="https://impcakash.netlify.app/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -57,7 +57,7 @@ and DS & Algo.</h3>
 
 ---
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -74,9 +74,55 @@ and DS & Algo.</h3>
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br/>
+<br/> -->
+
+## ⚡ Tech Stack
+
+### 🚀 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 💻 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+---
+
+## 📈 Stats
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=impcakash&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=impcakash&hide_border=true&theme=radical" />
+</p>
+
+---
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{impcakash}/count.svg" /></p> 
+<br></div>
+
+---
+
+<!-- <p align="center">
     <a href="https://github.com/impcakash/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Milind Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=impcakash&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -98,11 +144,11 @@ and DS & Algo.</h3>
 
 <a href="https://github.com/impcakash/github-readme-activity-graph"><img alt="Prakash Chandra Akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=impcakash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<!-- <br/> -->
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 
 <a href="https://github.com/impcakash/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=impcakash">
 </a>
-<a href="https://github.com/impcakash?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/impcakash?tab=followers"><img src="https://img.shields.io/github/followers/Milind74?label=Followers&style=social" alt="GitHub Badge"></a> --> -->
