@@ -89,7 +89,7 @@ and DS & Algo.</h3>
 
 ![Prakash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=impcakash&hide_border=true&theme=redical)
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{impcakash}/count.svg" /></p> 
-<br></div>
+<br></div> -->
