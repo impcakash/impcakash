@@ -85,9 +85,9 @@ and DS & Algo.</h3>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=impcakash&hide_border=true&theme=radical" />
 </p>
 
----
+<!-- --- -->
 
-![Prakash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=impcakash&hide_border=true&theme=redical)
+<!-- ![Prakash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=impcakash&hide_border=true&theme=redical) -->
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
