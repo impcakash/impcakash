@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prakash Chandra Akash </h1>
-<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing,
+<h3 align="center">I'm a Full Stack Web Developer with hands-on experience designing, developing,
 and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
 clean, elegant, and efficient code. Highly skilled in collaboration, decision-making,
-and DS & Algo.</h3>
+and DSA.</h3>
 
 ---
 
@@ -11,7 +11,7 @@ and DS & Algo.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/>  I’m looking to collaborate on OpenSource Projects </p>
+- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/>  I’m looking to collaborate on Open Source Project </p>
 
 - 📫 How to reach me **impcakash@gmail.com**
 
