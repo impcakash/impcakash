@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prakash Chandra Akash </h1>
-<h3 align="center">I'm a Full Stack Web Developer with hands-on experience designing, developing,
+<h3 align="center">I'm a Frontend Developer with hands-on experience designing, developing,
 and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
 clean, elegant, and efficient code. Highly skilled in collaboration, decision-making,
 and DSA.</h3>
