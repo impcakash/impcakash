@@ -1,49 +1,38 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Prakash </h1>
-<h3 align="center">I'm a passionate Front-End Developer who crafts clean, elegant, and efficient web experiences.</h3>
+<h3 align="center">A passionate Full Stack Developer, crafting clean, elegant, and efficient web experiences.</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
 
 🚀 Skilled in building and maintaining projects with a strong focus on design, functionality, and performance.<br/>
-🧠 Firm believer in the power of learning, unlearning, and relearning.<br/>
-🤝 Strong in collaboration, decision-making, and solving problems through DSA. <br/>
-📫 How to reach me **impcakash@gmail.com**
+🧠 A lifelong learner, constantly evolving by embracing new technologies and approaches.<br/>
+🤝 Adept at collaboration, decision-making, and solving complex problems through DSA.<br/>
+📫 You can reach me via email: **impcakash@gmail.com**
 
-<!--
-- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/>  I’m looking to collaborate on Open Source Project </p>
--->
-
-
-<!-- 	- 👨‍💻 Check my projects and portfolio **(https://impcakash.netlify.app/)**   -->
-
-
+---
 
 ## 🧑🏻 Connect With Me
 
 <p align="left">
-
-
   <a href="https://prakash-portfolio-1.netlify.app/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-
+    <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/impcakash/">
-   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/_imprakash_">
-   	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://medium.com/@impcakash">
-	<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />	
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:impcakash@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
-
 
 ## 💻 Tech Stacks
 
@@ -58,7 +47,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### ⚡ Libraries & Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,7 +57,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### 🔧 Tools & Platforms
 
@@ -86,9 +73,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-ff6b81?style=for-the-badge&logo=openai&logoColor=white)
 
-
 ---
-
 
 ## 📈 Stats
 
@@ -96,12 +81,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=impcakash&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=impcakash&hide_border=true&theme=radical" />
 </p>
-
-<!-- --- -->
-
-<!-- ![Prakash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=impcakash&hide_border=true&theme=redical) -->
-
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{impcakash}/count.svg" /></p> 
-<br></div> -->
