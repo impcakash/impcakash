@@ -15,7 +15,7 @@
 ## 🧑🏻 Connect With Me
 
 <p align="left">
-  <a href="https://prakash-portfolio-1.netlify.app/">
+  <a href="https://prakash-work.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/impcakash/">
