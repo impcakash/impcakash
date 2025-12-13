@@ -68,10 +68,5 @@
 
 ---
 
-## 📈 Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impcakash&hide_border=true&theme=radical" />
-</div>
 
 
